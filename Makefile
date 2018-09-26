@@ -1,5 +1,5 @@
 PKG_NAME := ironic-lib
-URL = https://files.pythonhosted.org/packages/ab/5e/043c2a0a34a1a4339129604ff9b602362d464f832101c6a767be5122dfbb/ironic-lib-2.14.0.tar.gz
+URL = https://files.pythonhosted.org/packages/64/ca/941930bc698e43f10746471627d3d0dd0ebf406acbfa8f406bf08664daff/ironic-lib-2.15.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common

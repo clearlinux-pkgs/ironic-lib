@@ -1,6 +1,18 @@
 CHANGES
 =======
 
+2.15.1
+------
+
+* Use templates for cover and lower-constraints
+* Accepts option for conv flags in dd command
+* Revert "Use dd conv=sparse when writing images to nodes"
+* Make search for config drive partition case insensitive
+* Check GPT table with sgdisk insread of partprobe
+* add python 3.6 unit test job
+* switch documentation job to new PTI
+* import zuul job settings from project-config
+
 2.14.0
 ------
 
