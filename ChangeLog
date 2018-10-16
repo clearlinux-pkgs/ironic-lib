@@ -1,6 +1,13 @@
 CHANGES
 =======
 
+2.16.0
+------
+
+* Allow to return unpopulated root partition from work\_on\_disk
+* Correct headings in README.rst
+* Prevent configuration changes in unit tests from affecting each other
+
 2.15.1
 ------
 
