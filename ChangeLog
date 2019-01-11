@@ -1,6 +1,13 @@
 CHANGES
 =======
 
+2.16.1
+------
+
+* Run sync and partprobe after adding a configdrive partition
+* Correct author email address
+* zuul-ify ironic-lib jobs
+
 2.16.0
 ------
 
