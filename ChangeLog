@@ -1,6 +1,13 @@
 CHANGES
 =======
 
+2.16.2
+------
+
+* add python 3.7 unit test job
+* Refactor zuulv3 based on ironic-base
+* Build ironic-python-agent images on merging ironic-lib patches
+
 2.16.1
 ------
 
