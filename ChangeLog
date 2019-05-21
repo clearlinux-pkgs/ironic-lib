@@ -1,6 +1,18 @@
 CHANGES
 =======
 
+2.17.0
+------
+
+* Tests: replace mocking loopingcall with zero interval
+* Handle ironic exception in ironic-lib
+* Add support code for multicast DNS service discovery
+* Update Sphinx requirements to match global-requirements
+* Replace git.openstack.org URLs with opendev.org URLs
+* OpenDev Migration Patch
+* Dropping the py35 testing
+* Include partiton name and flags from parted output
+
 2.16.2
 ------
 
