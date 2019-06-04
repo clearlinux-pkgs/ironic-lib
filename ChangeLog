@@ -1,6 +1,13 @@
 CHANGES
 =======
 
+2.17.1
+------
+
+* mdns: allow quoting in the [mdns]params configuration option
+* Expose configuration option relates to exception
+* mdns: try to convert bytes to strings in received properties
+
 2.17.0
 ------
 
