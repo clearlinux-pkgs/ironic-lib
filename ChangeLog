@@ -1,6 +1,12 @@
 CHANGES
 =======
 
+2.18.0
+------
+
+* Update Python 3 test runtimes for Train
+* mdns: allow specifying which interfaces to listen on
+
 2.17.1
 ------
 
