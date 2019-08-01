@@ -1,6 +1,12 @@
 CHANGES
 =======
 
+2.19.0
+------
+
+* Use last digit to determine paritition naming scheme
+* Returns disk\_identifier for UEFI boot mode nodes
+
 2.18.0
 ------
 
