@@ -1,6 +1,11 @@
 CHANGES
 =======
 
+2.21.0
+------
+
+* Deprecate [disk\_utils]iscsi\_verify\_attempts
+
 2.20.0
 ------
 
