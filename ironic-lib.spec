@@ -4,7 +4,7 @@
 #
 Name     : ironic-lib
 Version  : 2.21.0
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/e7/ef/20b972f862c73366a9854bd9314557ce3cacef344bae300ab86cff85a0c1/ironic-lib-2.21.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e7/ef/20b972f862c73366a9854bd9314557ce3cacef344bae300ab86cff85a0c1/ironic-lib-2.21.0.tar.gz
 Summary  : Ironic common library
