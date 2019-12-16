@@ -1,6 +1,21 @@
 CHANGES
 =======
 
+3.0.0
+-----
+
+* Stop using six library
+* mdns: correctly handle loopback addresses
+* mdns: default to listing on both V4 and V6 interfaces
+* Updating testing doc to py3
+* mdns: support IPv6 addresses
+* Drop python 2.7 support and testing
+* Fix Jobs
+* Add equivalent py3 jobs
+* Switch to Ussuri job
+* Move ironic-lib.filters to etc/ironic/rootwrap.d
+* Build pdf doc
+
 2.21.0
 ------
 
